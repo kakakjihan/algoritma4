@@ -11,5 +11,5 @@ for($i=1; $i <=3; $i++){
 }
 echo "</table>";
 print_r("<P><strong>by :jihan syafitri</strong>");
-
 ?>
+
