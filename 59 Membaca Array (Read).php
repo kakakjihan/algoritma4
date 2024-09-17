@@ -1,5 +1,5 @@
 <?php
-$buah = array("apel", "mangga", "pisang");
+$buah = array("apell", "mangga", "pisang");
 // atau
 $buah = ["apel", "mangga", "pisang"];
 $umur = array("Ali" => 20, "Budi" => 25, "Citra" => 22);
