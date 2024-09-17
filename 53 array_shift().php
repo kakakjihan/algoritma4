@@ -1,4 +1,4 @@
 <?php
-$buah = ["mangga", "jeruk", "pisang"];
+$buah = ["manggaa", "jeruk", "pisang"];
 $buahPertama = array_shift($buah);
 echo $buahPertama;
